@@ -149,7 +149,7 @@ function Tareas() {
                                                             </td>
                                                             :
                                                             <td data-toggle="tooltip" title="REANUDAR TAREA">
-                                                                <img onClick={() => { cambiarEstado(tarea._id, 1) }} src="https://img.icons8.com/sf-regular/30/null/circled-play.png" />
+                                                                <img onClick={() => { cambiarEstado(tarea._id, 1) }} src="https://img.icons8.com/sf-regular/30/null/recurring-appointment.png" />
                                                             </td>
                                                     }
                                                     <td data-toggle="tooltip" title="ELIMINAR TAREA">
